@@ -32,10 +32,6 @@ This system is designed to streamline operations for Tugo Bike Share, encompassi
 - **Dynamic Reporting Tools**: Enable real-time decision-making based on current data analytics.
 - **User Authentication**: Secure multiple user roles to ensure data access is appropriately managed.
 
-## Contributing
-
-We welcome contributions to enhance the functionality and efficiency of the Tugo Bike Share Data Management System. If you have suggestions or improvements, please fork the repository, make your changes, and submit a pull request.
-
 ## Report
 
 For further details go through the [Project Report](./EDM%20Group%20Report%20-%20Tugo.docx)
